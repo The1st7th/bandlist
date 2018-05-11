@@ -1,0 +1,16 @@
+
+<h1>New band</h1>
+<h3>Add a new item:</h3>
+<form action="/band" method="post">
+  <label for="new-band">Item description:</label>
+  <input id="new-band" name="new-band" type="text">
+  <select name="venue">
+    @if(Model != null){
+      @foreach (var venue in Model)
+      {
+        <option value = "@venue.GetId()">@venue.GetVenuename()</option>
+      }
+      }
+    </select>
+  <button type="submit">Submit</button>
+</form>

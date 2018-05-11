@@ -1,0 +1,11 @@
+<form action="/venue/search" method="post">
+  <select name="venue">
+    @if(Model != null){
+      @foreach (var venue in Model)
+      {
+        <option value = "@venue.GetId()">@venue.GetVenuename()</option>
+      }
+      }
+    </select>
+  <button type="submit">Submit</button>
+</form>

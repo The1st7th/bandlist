@@ -1,0 +1,19 @@
+<form action="/add" method="post">
+  <select name="band">
+    @if(Model != null){
+      @foreach (var band in Model["band"])
+      {
+        <option value = "@band.GetId()">@band.GetBandname()</option>
+      }
+      }
+    </select>
+    <select name="venue">
+    @if(Model != null){
+      @foreach (var venue in Model["venue"])
+      {
+        <option value = "@venue.GetId()">@venue.GetVenuename()</option>
+      }
+      }
+    </select>
+  <button type="submit">Submit</button>
+</form>

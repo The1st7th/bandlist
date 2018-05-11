@@ -1,0 +1,10 @@
+C:\Users\XonS\desktop\band\band\bin\Debug\netcoreapp1.1\band.deps.json
+C:\Users\XonS\desktop\band\band\bin\Debug\netcoreapp1.1\band.runtimeconfig.json
+C:\Users\XonS\desktop\band\band\bin\Debug\netcoreapp1.1\band.runtimeconfig.dev.json
+C:\Users\XonS\desktop\band\band\bin\Debug\netcoreapp1.1\band.dll
+C:\Users\XonS\desktop\band\band\bin\Debug\netcoreapp1.1\band.pdb
+C:\Users\XonS\desktop\band\band\obj\Debug\netcoreapp1.1\band.csprojResolveAssemblyReference.cache
+C:\Users\XonS\desktop\band\band\obj\Debug\netcoreapp1.1\band.csproj.CoreCompileInputs.cache
+C:\Users\XonS\desktop\band\band\obj\Debug\netcoreapp1.1\band.AssemblyInfo.cs
+C:\Users\XonS\desktop\band\band\obj\Debug\netcoreapp1.1\band.dll
+C:\Users\XonS\desktop\band\band\obj\Debug\netcoreapp1.1\band.pdb

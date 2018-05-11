@@ -1,0 +1,15 @@
+
+
+<h1>band List</h1>
+<ul>
+  @foreach(var band in Model)
+  {
+
+  <li>@band.GetId() @band.GetBandname()<a href="/band/delete/@band.GetId()">delete item</a></li>
+  }
+</ul>
+<p><a href="/band/new">Add a new item.</a></p>
+
+<form action="/bands/delete" method="post">
+  <button type="submit" name="button">Clear All Items</button>
+</form>

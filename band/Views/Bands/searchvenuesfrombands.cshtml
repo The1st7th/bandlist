@@ -1,0 +1,11 @@
+<form action="/band/search" method="post">
+  <select name="band">
+    @if(Model != null){
+      @foreach (var band in Model)
+      {
+        <option value = "@band.GetId()">@band.GetBandname()</option>
+      }
+      }
+    </select>
+  <button type="submit">Submit</button>
+</form>

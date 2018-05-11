@@ -1,0 +1,9 @@
+<h1>Category</h1>
+<ul>
+@if(Model != null){
+  @foreach(var item in Model)
+  {
+  <li>@item.GetId() @item.GetVenuename() </li>
+  }
+  }
+</ul>
