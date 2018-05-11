@@ -128,6 +128,13 @@ namespace BandList.Controllers
           List<Band> allBands = Band.GetAll();
           return View("Bands", allBands);
         }
+        [HttpGet("/band/{id}")]
+        public ActionResult find(int id)
+        {
+            Band.Find(id);
+            List<Band> allBands = Band.GetAll();
+            return View("bands", allBands);
+        }
 
     }
 }
