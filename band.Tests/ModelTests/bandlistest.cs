@@ -126,7 +126,23 @@ public class BandTest : IDisposable
       //Assert
       CollectionAssert.AreEqual(testList, result);
     }
-    
+    [TestMethod]
+    public void testdelete()
+    {
+      //Arrange
+      Band testItem = new Band("era");
+      testItem.Save();
+      List<Band> result = Band.GetAll();
+      foreach (var band in result)
+      {
+       Console.WriteLine("the id number " + band.GetId());
+      }
+      //act
+      Band.Delete(1);
+      
+
+      Assert.AreEqual(0, result.Count);
+    }
 
   }
 }
