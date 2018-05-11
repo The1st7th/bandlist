@@ -10722,9 +10722,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XonS\\desktop\\band\\band.Tests\\todo.Tests.csproj",
-      "projectName": "todo.Tests",
-      "projectPath": "C:\\Users\\XonS\\desktop\\band\\band.Tests\\todo.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\XonS\\desktop\\band\\band.Tests\\band.Tests.csproj",
+      "projectName": "band.Tests",
+      "projectPath": "C:\\Users\\XonS\\desktop\\band\\band.Tests\\band.Tests.csproj",
       "packagesPath": "C:\\Users\\XonS\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\XonS\\desktop\\band\\band.Tests\\obj\\",
       "projectStyle": "PackageReference",

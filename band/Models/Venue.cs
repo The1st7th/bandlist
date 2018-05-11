@@ -116,7 +116,7 @@ namespace BandList.Models
             MySqlConnection conn = DB.Connection();
             conn.Open();
             var cmd = conn.CreateCommand() as MySqlCommand;
-            cmd.CommandText = @"DELETE FROM venues;";
+            cmd.CommandText = @"DELETE FROM venues; Delete From bands_venues";
             cmd.ExecuteNonQuery();
             conn.Close();
             if (conn != null)

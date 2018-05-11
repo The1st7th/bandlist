@@ -1,0 +1,15 @@
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.Tests.deps.json
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.Tests.runtimeconfig.json
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.Tests.runtimeconfig.dev.json
+C:\Users\XonS\desktop\band\band.Tests\obj\Debug\netcoreapp1.1\band.Tests.csprojResolveAssemblyReference.cache
+C:\Users\XonS\desktop\band\band.Tests\obj\Debug\netcoreapp1.1\band.Tests.csproj.CoreCompileInputs.cache
+C:\Users\XonS\desktop\band\band.Tests\obj\Debug\netcoreapp1.1\band.Tests.AssemblyInfo.cs
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.Tests.dll
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.Tests.pdb
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.dll
+C:\Users\XonS\desktop\band\band.Tests\bin\Debug\netcoreapp1.1\band.pdb
+C:\Users\XonS\desktop\band\band.Tests\obj\Debug\netcoreapp1.1\band.Tests.dll
+C:\Users\XonS\desktop\band\band.Tests\obj\Debug\netcoreapp1.1\band.Tests.pdb
